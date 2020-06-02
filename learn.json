@@ -1,8 +1,11 @@
 {
 	"title" : "Multi View React Web App",
-	"slug" : "multi-view-react-website",
+	"slug" : "multi-view-react-collaborative-website",
 	"status": "published",
 	"solution": "",
+	"difficulty": "easy",
+	"technologies": ["react.js", "reactjs", "javascript"],
+	"syntax": "react.js",
 	"translations": ["es", "us"],
 	"duration" : 24,
 	"description" : "Create a web app using React router and Context",
