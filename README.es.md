@@ -2,6 +2,8 @@
 
 Tecnologías: HTML, CSS, JS, React, react-router, react context.
 
+![Preview](https://github.com/breatheco-de/exercise-multi-view-react-collaborative-website/blob/master/preview.gif?raw=true)
+
 Basta con las páginas de destino y los proyectos de vista única, es hora de crear nuestra primera aplicación web.
 
 Este es un proyecto de colaboración, la clase se dividirá en 4 grupos y cada uno creará una parte de un sitio web de vista múltiple.

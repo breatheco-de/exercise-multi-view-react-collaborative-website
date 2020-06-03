@@ -2,7 +2,7 @@
 	"title" : "Multi View React Web App",
 	"slug" : "multi-view-react-collaborative-website",
 	"status": "published",
-	"solution": "",
+	"solution": "https://github.com/breatheco-de/exercise-multi-view-react-collaborative-website/blob/master/thumb.gif?raw=true",
 	"difficulty": "easy",
 	"technologies": ["react.js", "reactjs", "javascript"],
 	"syntax": "react.js",
