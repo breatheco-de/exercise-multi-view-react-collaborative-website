@@ -8,7 +8,7 @@ Enough with the landing pages and single view projects, it is time to build our 
 
 This is a collaborative project, the class will be separated in groups and each will create a piece of a multi-view website.
 
-### 💻 How to start?
+### 🌱 How to start?
 
 1. The project leader (or instructor) will create a new React FLUX project (React + React Router + Context API).
 2. Create a repository and upload the code.
@@ -16,7 +16,7 @@ This is a collaborative project, the class will be separated in groups and each 
 4. All the students clone the repository.
 5. Divide the project workload in pieces and each group start working on its piece, 2 or max 3 people per group.
 6. Install the dependencies `$ npm install`
-7. Start the WebPack development server: `$ npm run c9`
+7. Start the WebPack development server: `$ npm run start`
 8. Start coding!
 
 Done!
