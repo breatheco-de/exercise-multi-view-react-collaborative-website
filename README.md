@@ -12,23 +12,23 @@ This is a collaborative project, the class will be separated in groups and each 
 
 Do not clone this repository.
 
-1.The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
+1. The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
 
 a) If using Gitpod you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
 
 b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello`.
 
-2. Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+💡 Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-3. Invite the other students as collaborators.
+2. Invite the other students as collaborators.
 
-5. All the students clone the repository.
-6. 
-7. Divide the project workload in pieces and each group start working on its piece, 2 or max 3 people per group.
-8. 
-9. Install the dependencies `$ npm install`
-10. 
-11. Start the WebPack development server: `$ npm run start`
+3. All the students clone the repository.
+
+4. Divide the project workload in pieces and each group start working on its piece, 2 or max 3 people per group.
+
+5. Install the dependencies `$ npm install`
+
+6. Start the WebPack development server: `$ npm run start`
 
 
 Done!

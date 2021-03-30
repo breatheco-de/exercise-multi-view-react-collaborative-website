@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Multi view Website with React 
+# Sitio Web con multiples vistas con React 
 
 Tecnologías: HTML, CSS, JS, React, react-router, react context.
 
@@ -6,9 +6,33 @@ Tecnologías: HTML, CSS, JS, React, react-router, react context.
 
 Basta con las páginas de destino y los proyectos de vista única, es hora de crear nuestra primera aplicación web.
 
-Este es un proyecto de colaboración, la clase se dividirá en 4 grupos y cada uno creará una parte de un sitio web de vista múltiple.
+Este es un proyecto colaborativo, la clase se dividirá en grupos y cada uno creará una parte de un sitio web de vistas múltiples.
 
-### Piezas/Grupos:
+## 🌱  Cómo iniciar este proyecto
+
+No clones este repositorio.
+
+1. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+2. Invita a otros estudiantes como colaboradores.
+
+3. All the students clone the repository.
+
+4. Divide el trabajo del proyecto en partes y cada grupo puede empezar a trabajar en su pieza, 2 o 3 personas máximo por grupo.
+
+5. Instala las dependencias `$ npm install`
+
+6. Inicia el servidor WebPack development: `$ npm run start`
+
+¡Hecho!
+
+### Partes/Grupos:
 
 - NavBar/Footer/Login View (Session) |
 https://getbootstrap.com/docs/4.1/examples/carousel/ & https://getbootstrap.com/docs/4.1/examples/sign-in/
@@ -23,13 +47,13 @@ https://getbootstrap.com/docs/4.1/examples/product/ & https://getbootstrap.com/d
 
 #### Fase 1: configurar las vistas. Reaccionar enrutador.
 
-Cada grupo tendrá que crear el ***componente vista ***  correspondiente con contenido ficticio (inicialmente) y tantos componentes "más pequeños" como sea necesario.
+Cada grupo tendrá que crear el **componente vista**  correspondiente con contenido ficticio (inicialmente) y tantos componentes "más pequeños" como sea necesario.
 
-Nota: Piensa DRY (Don't repeat yourself) y declare solo un componente *** y use `` `props``` para manejar contenido diferente.
+Nota: Piensa DRY (Don't repeat yourself), declara solo **un** componente con contenidoy usa ```props``` para manejar contenido diferente.
 
-#### Fase 2: Dinamizar la aplicación. React Context.
+#### Fase 2: Dinamizar la aplicación: React Context.
 
-Each group must use the Consumer given by the instructor in order to ***use the store to fill the content*** of the pieces:
+Cada grupo usa el Consumer dado por el profesor para **para usar el store para ponerle el contenido** a las partes:
 
 - Navbar: debe mostrar el nombre de usuario y la imagen del usuario (suponga que el usuario está conectado).
 - Login: Mostrar el formulario de inicio de sesión.
@@ -39,7 +63,7 @@ Each group must use the Consumer given by the instructor in order to ***use the 
 
 ##### Usando el Context
 
-The `store` structure:
+Estructura de `store`:
 
 ```javascript
 store = {
@@ -84,18 +108,18 @@ store = {
 };
 ```
 
-Para tener acceso a los datos globales, deberá importar el archivo principal del contexto:
+Para tener acceso a los datos globales, deberás importar el archivo principal del contexto:
 
 
 ```jsx
 
-// import the app context
+// importando app context
 import {Context} from '/path/to/store/appContext.jsx';
 
 
 const MyView = () => {
     const { actions, store } = useContext(Context);
-    //Then use the Consumer anywhere on the component
+    //Luego usa el Consumer en cualquier parte del componente
     return (<span> hello, {store.session.username} </span>);
 }
 ```
@@ -108,20 +132,3 @@ demo.jsx
  - demoProducts.jsx
 ```
 
-### ¿Como Empezar?
-
-##### 1. Clonar el repositorio inicial del instructor.
-```
-$ git clone <repository_url>
-```
-##### 2. Instala el /node_modules
-```
-$ npm install
-```
-##### 3. Ejecutar el servidor de desarrollo webpack.
-```
-$ npm run c9
-```
-
-Listo!
-*tap* *tap* *tap* (Start coding!)
