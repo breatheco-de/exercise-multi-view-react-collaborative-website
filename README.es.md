@@ -14,11 +14,14 @@ No clones este repositorio.
 
 1. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
 
-a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+a) Si usas Gitpod (recomendao) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+```sh
+$ git clone https://github.com/4GeeksAcademy/react-hello`
+```
 
-💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 2. Invita a otros estudiantes como colaboradores.
 

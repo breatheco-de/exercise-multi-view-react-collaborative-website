@@ -14,7 +14,7 @@ Do not clone this repository.
 
 1. The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
 
-a) If using Gitpod you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
 
 b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello`.
 
