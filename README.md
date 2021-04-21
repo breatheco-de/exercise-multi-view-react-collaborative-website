@@ -8,16 +8,28 @@ Enough with the landing pages and single view projects, it is time to build our 
 
 This is a collaborative project, the class will be separated in groups and each will create a piece of a multi-view website.
 
-### 🌱 How to start?
+## 🌱  How to start this project
 
-1. The project leader (or instructor) will create a new React FLUX project (React + React Router + Context API).
-2. Create a repository and upload the code.
-3. Invite the other students as collaborators.
-4. All the students clone the repository.
-5. Divide the project workload in pieces and each group start working on its piece, 2 or max 3 people per group.
-6. Install the dependencies `$ npm install`
-7. Start the WebPack development server: `$ npm run start`
-8. Start coding!
+Do not clone this repository.
+
+1. The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
+
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+2. Invite the other students as collaborators.
+
+3. All the students clone the repository.
+
+4. Divide the project workload in pieces and each group start working on its piece, 2 or max 3 people per group.
+
+5. Install the dependencies `$ npm install`
+
+6. Start the WebPack development server: `$ npm run start`
+
 
 Done!
 
