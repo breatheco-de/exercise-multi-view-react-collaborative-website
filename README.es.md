@@ -12,9 +12,9 @@ Este es un proyecto colaborativo, la clase se dividirá en grupos y cada uno cre
 
 No clones este repositorio.
 
-1. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+1. El primer paso para comenzar a codificar es clonar el [React.js FLUX boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) en tu compjutador local o con Gitpod.
 
-a) Si usas Gitpod (recomendao) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+a) Si usas Gitpod (recomendao) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 ```sh
