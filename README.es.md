@@ -25,9 +25,9 @@ $ git clone https://github.com/4GeeksAcademy/react-hello-webapp`
 
 2. Invita a otros estudiantes como colaboradores.
 
-3. All the students clone the repository.
+3. Todos los estudiantes deben clonar el repositorio.
 
-4. Divide el trabajo del proyecto en partes y cada grupo puede empezar a trabajar en su pieza, 2 o 3 personas máximo por grupo.
+4. Divide el proyecto en pequeñas partes y cada grupo puede empezar a trabajar en su parte, 2 o 3 personas máximo por grupo.
 
 5. Instala las dependencias `$ npm install`
 
