@@ -1,4 +1,6 @@
-#  Multi-view Website with React 
+<!--hide-->
+# Multi-view Website with React 
+<!--endhide-->
 
 Technologies: HTML, CSS, JS, React, react-router, react context.
 
@@ -16,7 +18,7 @@ Do not clone this repository.
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp).
 
-b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
+b) If working locally, type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
 
 💡 Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
@@ -24,7 +26,7 @@ b) If working locally type the following command from your command line: `git cl
 
 3. All the students clone the repository.
 
-4. Divide the project workload in pieces and each group start working on its piece, 2 or max 3 people per group.
+4. Divide the project workload into pieces and each group starts working on its piece, 2 or max 3 people per group.
 
 5. Install the dependencies `$ npm install`
 
@@ -58,7 +60,7 @@ Each group must use the Consumer given by the instructor in order to ***use the 
 
 - Navbar: must show the user's username and picture (assume the user is logged in).
 - Login: show the login form.
-- Landing Page: must show 3 posts in the carousel, 3 posts in a grid and 3 products in the products section.
+- Landing Page: must show 3 posts in the carousel, 3 posts in a grid, and 3 products in the products section.
 - Blog: must show 6 blog posts
 - Post View: must show clicked post details.
 

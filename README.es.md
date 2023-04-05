@@ -1,4 +1,6 @@
+<!--hide-->
 # Sitio Web con multiples vistas con React 
+<!--endhide-->
 
 Tecnologías: HTML, CSS, JS, React, react-router, react context.
 
@@ -14,7 +16,7 @@ No clones este repositorio.
 
 1. El primer paso para comenzar a codificar es clonar el [React.js FLUX boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) en tu compjutador local o con Gitpod.
 
-a) Si usas Gitpod (recomendao) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp).
+a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 ```sh
@@ -52,11 +54,11 @@ https://getbootstrap.com/docs/4.1/examples/product/ & https://getbootstrap.com/d
 
 Cada grupo tendrá que crear el **componente vista**  correspondiente con contenido ficticio (inicialmente) y tantos componentes "más pequeños" como sea necesario.
 
-Nota: Piensa DRY (Don't repeat yourself), declara solo **un** componente con contenidoy usa ```props``` para manejar contenido diferente.
+Nota: Piensa DRY (Don't repeat yourself), declara solo **un** componente con contenido y usa ```props``` para manejar contenido diferente.
 
 #### Fase 2: Dinamizar la aplicación: React Context.
 
-Cada grupo usa el Consumer dado por el profesor para **para usar el store para ponerle el contenido** a las partes:
+Cada grupo usa el Consumer dado por el profesor para **usar el store para ponerle el contenido** a las partes:
 
 - Navbar: debe mostrar el nombre de usuario y la imagen del usuario (suponga que el usuario está conectado).
 - Login: Mostrar el formulario de inicio de sesión.
